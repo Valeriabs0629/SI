@@ -3,7 +3,22 @@ guid: e9f4cb5f59c6ef24d8427541fd5fa512
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubiertos_blinn1SG1
+    second: {fileID: -8580059284979125229, guid: 12893bbdd6ec65d489bc7de57ce51764, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platos_lambert7SG1
+    second: {fileID: -4892940646633616944, guid: dc9cffbebf434d04680eca47860e09ac, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: -4892940646633616944, guid: dc9cffbebf434d04680eca47860e09ac, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

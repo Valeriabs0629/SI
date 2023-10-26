@@ -1,0 +1,17 @@
+newmtl TVSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tv_glass_Albedo.png
+bump  -bm 1 tv_glass_Normal.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TV_Albedo.png
+Ni 1.00

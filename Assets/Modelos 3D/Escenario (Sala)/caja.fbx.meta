@@ -3,7 +3,12 @@ guid: 4fec2c62dfea2244ab3d0416a7bdcd44
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caja1_lambert2SG1
+    second: {fileID: 7375233701362402539, guid: 7b51bd7849a5186419ada431c1a4fd4f, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
